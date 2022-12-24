@@ -10,6 +10,8 @@ _git config --list_
 
 __git config user.name__
 
+чегираут ШИИИЭЭЭ
+
 ***git config user.email***
 
 ### Bybwbfkbpfwbz
