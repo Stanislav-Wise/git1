@@ -17,4 +17,7 @@ git init
 git status
 
 git add read.md
-git commit -m "Добавили файл"
+git commit -m "Добавили файл
+
+
+Новый текст который мы добавили в новой ветке в новом файле.
