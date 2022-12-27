@@ -1,5 +1,7 @@
 ﻿# GIT
 
+>[скачать git можно тут](https://git-scm.com/)
+
 ## Регистрация
 
 **git config --global user.email s@gmail.com**
@@ -12,7 +14,6 @@ __git config user.name__
 
 ***git config user.email***
 
-### Bybwbfkbpfwbz
 git init 
 git status
 
