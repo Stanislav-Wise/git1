@@ -1,6 +1,7 @@
 ﻿# GIT
 
-## Регистрация
+## Регистрация 
+## ПЛЮС 
 
 **git config --global user.email s@gmail.com**
 
